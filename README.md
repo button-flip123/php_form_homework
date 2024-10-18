@@ -1,2 +1,3 @@
-# php_form_homework
-Php form with bootstrap
+# PHP Form homework
+
+PHP Form homework with bootstrap 

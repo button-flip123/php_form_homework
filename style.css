@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+.header.header{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header .bmi-box{
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 50%;
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+
+.header .bmi-box #text_label{
+    font-family: 'Roboto Slab';
+    font-size: 14px;
+}
+
+.header .bmi-box #naslov{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Nanum Gothic';
+    font-size: 20px;
+}
+
+.header .bmi-box #button_submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color:darkcyan;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+    font-family: 'Roboto Slab';
+    border-radius: 40px;
+}
